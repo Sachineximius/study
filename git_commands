@@ -1,0 +1,2 @@
+1.To clone from remote to local via HTTP ,just use command
+ - git clone <url provided by github>
